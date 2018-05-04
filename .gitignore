@@ -4,6 +4,7 @@
 config.properties
 dubbo-admin
 /test
+#/target
 # Compiled class file
 *.class
 
